@@ -1,6 +1,6 @@
-The Project Open Data Dashboard provides a variety of tools and capabilities to help manage the implementation of [Project Open Data](https://project-open-data.cio.gov/). It is primary used for Federal agencies, but also provides tools and resources for use by other entities like state and local government. 
+The Project Open Data Dashboard provides a variety of tools and capabilities to help manage the implementation of [Project Open Data](https://project-open-data.cio.gov/). Its primary use is for Federal agencies, but it also provides tools and resources for other entities such as state and local governments. 
 
-The primary place for the user-facing documentation is http://data.civicagency.org/docs
+User-facing documentation is found at http://data.civicagency.org/docs
 
 Federal agencies were seeded using the [USA.gov Federal Agency Directory API](http://www.usa.gov/About/developer-resources/federal-agency-directory/) and the IDs provided by that resource are used as the primary IDs on this dashboard. 
 
